@@ -2,7 +2,7 @@ package ua.Romanov.Alexandr;
 
 class Ticket {
     public static void main(String args[]) {
-        int c = 0; /*чтобы пропустить билет 000000}*/
+        int c = 0; 
         for (int x1 = 0; x1 < 10; x1++)
             for (int x2 = 0; x2 < 10; x2++)
                 for (int x3 = 0; x3 < 10; x3++)
